@@ -1,0 +1,32 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Build directories
+dist/
+build/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Optional: lock file (npm)
+package-lock.json
+
+# Optional: lock file (yarn)
+yarn.lock
+
+# Optional: lock file (pnpm)
+pnpm-lock.yaml
